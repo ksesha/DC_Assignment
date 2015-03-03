@@ -109,9 +109,13 @@ Sample Output
 /*------------------------------------------------------------------------
 
 Option:i
+
 Enter the word:Apple
+
 Enter the meaning:This is a fruit
+
 Apple inserted.
+
 
 /*------------------------------------------------------------------------
 * Welcome to the dictionary simulation
@@ -123,10 +127,14 @@ Apple inserted.
 /*------------------------------------------------------------------------
 
 Option:i
+
 Enter the word:Carrot
+
 Enter the meaning:This is a veggie
+
 Carrot inserted.
 
+
 /*------------------------------------------------------------------------
 * Welcome to the dictionary simulation
 * Enter 'i' to insert a word and its meaning
@@ -137,8 +145,12 @@ Carrot inserted.
 /*------------------------------------------------------------------------
 
 Option:l
+
 Enter the word:Carrot
+
 Meaning: This is a veggie
+
+
 /*------------------------------------------------------------------------
 * Welcome to the dictionary simulation
 * Enter 'i' to insert a word and its meaning
@@ -149,9 +161,13 @@ Meaning: This is a veggie
 /*------------------------------------------------------------------------
 
 Option:l
+
 Enter the word:Roy
+
 Roy was not found.
 
+
+
 /*------------------------------------------------------------------------
 * Welcome to the dictionary simulation
 * Enter 'i' to insert a word and its meaning
@@ -161,10 +177,12 @@ Roy was not found.
 * Note: Words and meaning cannot exceed 50 words
 /*------------------------------------------------------------------------
 
-Option:
-r
+Option:r
+
 Enter the word:Apple
+
 Apple deleted.
+
 
 /*------------------------------------------------------------------------
 * Welcome to the dictionary simulation
@@ -176,8 +194,11 @@ Apple deleted.
 /*------------------------------------------------------------------------
 
 Option:l
+
 Enter the word:Apple
+
 Apple was not found.
+
 
 /*------------------------------------------------------------------------
 * Welcome to the dictionary simulation
@@ -189,5 +210,7 @@ Apple was not found.
 /*------------------------------------------------------------------------
 
 Option:q
+
 program quits.
+
 
